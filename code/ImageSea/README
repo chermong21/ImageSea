@@ -1,0 +1,18 @@
+Read Me
+--------
+* This is a Eclipse Java project and it's exported by Export tool in Eclipse.
+It can be imported by Import tool in Eclipse.
+
+* "Images of Groups" dataset is removed from project directory because it exceeds 20MB upper
+file bound in Ninova. It can be grabbed from [1] and located under $project_root/src/data/db.
+
+* All configurations are realized by RetrieveConstants.py file in the project.
+
+* Query image and image db path are inputted as command line arguments and results are
+generated in a HTML file located under $project_root.
+
+* Results generated for performance evaluation of the system are located under $project_root/results.
+
+References
+-----------
+[1] http://chenlab.ece.cornell.edu/people/Andy/ImagesOfGroups.html
