@@ -7,7 +7,6 @@ Created on Dec 22, 2012
 import os
 import sys
 import cPickle
-from SimpleCV import Image
 
 import retrieve
 import RetrieveConstants
